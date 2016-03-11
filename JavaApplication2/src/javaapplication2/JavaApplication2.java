@@ -13,7 +13,7 @@ public class JavaApplication2 {
 
     public JavaApplication2() {
         System.out.println("hola");
-        System.out.println("");
+        System.out.println("adioss");
     }
    
     
